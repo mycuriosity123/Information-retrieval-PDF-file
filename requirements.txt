@@ -1,0 +1,9 @@
+langchain == 0.3.0
+huggingface_hub == 0.25.0
+streamlit == 1.38.0
+transformers == 4.44.2
+langchain_huggingface == 0.1.0
+langchain_community == 0.3.0
+streamlit_chat == 0.1.1
+pypdf == 5.0.0
+chromadb == 0.5.5
