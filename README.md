@@ -15,6 +15,10 @@ pip install -r requirements.txt
 step3:
 streamlit run informationRetrievalst.py  
 
+![image](https://github.com/user-attachments/assets/31c1e91d-5ecb-470a-82b0-b3ad66a629e2)
+
+
+
 
 
 
